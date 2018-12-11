@@ -13,7 +13,7 @@ body {
   height: 100vh;
   display: flex;
   justify-content: space-between;
-  background: #444;
+  background: #3e4346;
   color: #DDD;
 }
 
@@ -58,7 +58,7 @@ body {
 
 .mail-link {
   font-size: 17px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 5px;
   font-weight: 700;
 }
